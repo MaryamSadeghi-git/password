@@ -1,0 +1,35 @@
+body{
+    margin: 50px;
+}
+.contain{
+    width: 40vw;
+    max-height: fit-content;
+    margin:  auto ;
+    text-align: center;
+    justify-content: center;
+    border: dashed rgb(4, 243, 108) 4px;
+    padding: 30px;
+}
+input{
+    padding: 5px;
+    font-size: 22px;
+    width: 70%;
+    border: solid rgb(152, 152, 155) 1px;
+    border-radius: 8px;
+    margin:0 10px 10px 10px;
+}
+
+.mainContain{
+    text-align: left;
+    font-size: 22px;
+    padding: 10px;
+}
+.mainContain div{
+    padding: 0.5rem;
+}
+.valiated{
+    color: green;
+}
+.notvaliate{
+    color:dimgrey;
+}
